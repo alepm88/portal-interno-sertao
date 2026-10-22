@@ -1,0 +1,16 @@
+PORTAL INTERNO SERTÃO — protótipo responsivo
+================================================
+Arquivos:
+- index.html: landing page responsiva com navegação, busca, modais e formulários demonstrativos.
+- logo-sertao.png: logotipo fornecido.
+
+Como testar:
+1. Extraia o ZIP mantendo index.html e logo-sertao.png na mesma pasta.
+2. Abra index.html em um navegador moderno.
+
+Para publicar no Microsoft 365:
+- Hospede/adapte o conteúdo em SharePoint Online ou no ambiente web aprovado pela TI.
+- Para formulários reais, conecte Microsoft Forms/Power Automate ou serviço interno aprovado.
+- Substitua cronograma, nomes, contatos, documentos, fotos e links demonstrativos por conteúdo oficial.
+- Configure o Canal de Ética para apontar exclusivamente ao canal oficial e confidencial da empresa.
+- O HTML é um protótipo front-end; não tem autenticação, banco de dados nem envio automático de formulários.
